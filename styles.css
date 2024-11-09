@@ -1,0 +1,38 @@
+body {
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    background-color: #402c04; /* White background for the card */
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+}
+
+h1 {
+    color: #d1d6ad; /* Cute pink color */
+    font-size: 2.5em;
+}
+
+.cake-image {
+    width: 100px; /* Adjust the size of the cake image */
+    margin: 20px 0;
+}
+
+p {
+    color: #766d4f; /* Dark gray text */
+    font-size: 1.2em;
+}
+
+.signature {
+    font-style: italic;
+    color: #8b7876; /* Same cute pink color for the signature */
+}
